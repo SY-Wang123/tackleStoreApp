@@ -1,0 +1,72 @@
+[
+    {
+        "productId": 1,
+        "productName": "Super Cast Ul",
+        "productType": "Rod",
+        "productPrice": 299.9,
+        "productStock": 50
+    },
+    {
+        "productId": 2,
+        "productName": "Super Cast 3000",
+        "productType": "Reel",
+        "productPrice": 199.9,
+        "productStock": 50
+    },
+    {
+        "productId": 3,
+        "productName": "Mino",
+        "productType": "Bait",
+        "productPrice": 19.9,
+        "productStock": 100
+    },
+    {
+        "productId": 4,
+        "productName": "Pro Fishing Line",
+        "productType": "Equipment",
+        "productPrice": 25.5,
+        "productStock": 70
+    },
+    {
+        "productId": 5,
+        "productName": "Steel Hooks",
+        "productType": "Equipment",
+        "productPrice": 15.5,
+        "productStock": 200
+    },
+    {
+        "productId": 6,
+        "productName": "Floating Sensation",
+        "productType": "Float",
+        "productPrice": 10.5,
+        "productStock": 80
+    },
+    {
+        "productId": 7,
+        "productName": "Frozen Shrimp",
+        "productType": "Bait",
+        "productPrice": 22.0,
+        "productStock": 120
+    },
+    {
+        "productId": 8,
+        "productName": "Jig",
+        "productType": "Bait",
+        "productPrice": 9.9,
+        "productStock": 150
+    },
+    {
+        "productId": 9,
+        "productName": "Popper",
+        "productType": "Bait",
+        "productPrice": 14.9,
+        "productStock": 90
+    },
+    {
+        "productId": 10,
+        "productName": "Fishing Net",
+        "productType": "Equipment",
+        "productPrice": 50.0,
+        "productStock": 30
+    }
+]
